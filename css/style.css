@@ -2,8 +2,18 @@
         Fonts 
 ------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+/*-----------------
+    Common CSS 
+------------------*/
 p{
     color: #E0E0E0;
+}
+
+/*-------------------
+    Custom styles 
+--------------------*/
+.honda-bg-info{
+    background-color: #264653;
 }
 .honda-btn{
     color: #FFFFFF;
@@ -14,9 +24,9 @@ p{
     font-weight: 500px;
     border-radius: 5px;
 }
-/*-------------------
-    Custom styles 
---------------------*/
-.honda-bg-info{
-    background-color: #264653;
+#best-bike{
+    color: #E76F51;
+}
+.gray-img{
+    filter: grayscale(1);
 }
