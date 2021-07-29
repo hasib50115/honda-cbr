@@ -30,3 +30,34 @@ p{
 .gray-img{
     filter: grayscale(1);
 }
+/*-------------------
+    Clients Styles 
+--------------------*/
+span{
+    color: #E76F51;
+}
+.card-user{
+    width: 322px;
+
+}
+.user-image{
+    width: 149px;
+    height: 149px;
+}
+.card-text{
+    color: #6C6C6C;
+}
+.fa-star.filled{
+    color: #FFC014;
+}
+.fa-star.emty{
+    color: #AEAEAE;
+}
+/*-------------------
+    FAQ Styles 
+--------------------*/
+.faq-image{
+    width: 425px;
+}
+
+
